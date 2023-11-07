@@ -21,7 +21,7 @@ public class Animal {
             return "no";
         }
         if(this.numberOfPaws==1){
-            return "a paw";
+            return "1 paw";
         }else{
             return numberOfPaws+" paws";
         }
